@@ -1,1 +1,1 @@
-I am here to build new services on top of the Cardano ecosystem.
+It's very simple - I bash my keyboard and it produces scalable cloud infrastructure
